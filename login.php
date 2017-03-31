@@ -8,7 +8,6 @@
 </head>
 <body>
 
-
 <div  id="form" >
 <?php
 	require("/configuration.php");
